@@ -24945,7 +24945,7 @@ const $I = {
                         w.jsx("h1", {
                           className:
                             "font-display font-black text-3xl sm:text-5xl md:text-7xl text-white drop-shadow-[0_0_30px_hsl(var(--astroid-blue)/0.8)] tracking-wider",
-                          children: "$ASTEROID",
+                          children: "$TRILLIONAIRE",
                         }),
                         w.jsx("p", {
                           className:
@@ -35672,7 +35672,7 @@ const WM = "https://sevoqwjxpwyihcevosxp.supabase.co",
                   }),
                   w.jsx("span", {
                     className: "hidden md:inline",
-                    children: "VEHICLE: $ASTEROID",
+                    children: "VEHICLE: $TRILLIONAIRE",
                   }),
                   w.jsx("span", {
                     className: "ml-auto whitespace-nowrap",
@@ -35696,7 +35696,7 @@ const WM = "https://sevoqwjxpwyihcevosxp.supabase.co",
                     w.jsx("span", {
                       className:
                         "font-display font-bold text-base sm:text-xl tracking-widest truncate",
-                      children: "$ASTEROID",
+                      children: "$TRILLIONAIRE",
                     }),
                   ],
                 }),
@@ -35992,7 +35992,7 @@ const WM = "https://sevoqwjxpwyihcevosxp.supabase.co",
                               "The first trillionaire won't be made by cars, social media, or AI.  ",
                               w.jsx("em", { children: "It wasn't." }),
                               " The first trillionaire will be made by asteroid mining. ",
-                              w.jsx("strong", { children: "twice" }),
+                              // w.jsx("strong", { children: "twice" }),
                               "Asteroid Trillionaire is the meme token for that inevitability.",
                             ],
                           }),
@@ -36278,7 +36278,7 @@ const WM = "https://sevoqwjxpwyihcevosxp.supabase.co",
                       {
                         n: "03",
                         t: "Swap on Uniswap",
-                        d: "Head to Uniswap or any Ethereum DEX and swap ETH for $ASTEROID.",
+                        d: "Head to Uniswap or any Ethereum DEX and swap ETH for $TRILLIONAIRE.",
                       },
                     ].map((n) =>
                       w.jsxs(
@@ -36334,7 +36334,7 @@ const WM = "https://sevoqwjxpwyihcevosxp.supabase.co",
                     }),
                     w.jsx("span", {
                       className: "font-display font-bold tracking-widest",
-                      children: "$ASTEROID",
+                      children: "$TRILLIONAIRE",
                     }),
                   ],
                 }),

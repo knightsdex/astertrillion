@@ -24711,7 +24711,7 @@ const $I = {
       ),
     });
   },
-  uv = "0xComingSoon",
+  uv = "0xfcf7958e6f727384556363e8f90b3156ef963a6a",
   qI = () => {
     const [e, t] = b.useState(!1),
       n = () => {
@@ -35592,11 +35592,11 @@ const WM = "https://sevoqwjxpwyihcevosxp.supabase.co",
   QM = [
     {
       label: "Dexscreener",
-      url: "https://dexscreener.com/ethereum/0xComingSoon",
+      url: "https://dexscreener.com/ethereum/0xfcf7958e6f727384556363e8f90b3156ef963a6a",
     },
     {
       label: "Uniswap",
-      url: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+      url: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xfcf7958e6f727384556363e8f90b3156ef963a6a",
     },
     {
       label: "Twitter",
@@ -35608,7 +35608,7 @@ const WM = "https://sevoqwjxpwyihcevosxp.supabase.co",
     },
   ],
   rl = [
-    "MISSION: ASTEROID",
+    "MISSION: Trillionaire",
     "SPACEX ⭐ IPO",
     "ASTEROID TRILLIONAIRE",
     "FOR ELON, FROM OLIVIA",
@@ -35963,7 +35963,7 @@ const WM = "https://sevoqwjxpwyihcevosxp.supabase.co",
                           w.jsx("span", {
                             className:
                               "text-[hsl(var(--astroid-blue))] text-glow",
-                            children: " Asteroid",
+                            children: " Asteroid Trillionaire",
                           }),
                           ".",
                         ],
